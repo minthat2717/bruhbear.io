@@ -74,6 +74,8 @@ h1{
     background: pink;
     text-align: center;
     transition: 0.5s;
+    position: relative;
+    justify-content: space-between;
 }
 
 .j:hover{
