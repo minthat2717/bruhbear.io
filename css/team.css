@@ -67,17 +67,16 @@ h1{
 
 .j{
     padding: 25px;
-    margin:auto;
+    margin: auto;
     border: none;
     border-radius: 20px;
-    width: 200px;
+    height: 100%;
+    width:15%;
     background: pink;
     text-align: center;
     transition: 0.5s;
-    position: relative;
     justify-content: space-between;
 }
-
 .j:hover{
     transform: scale(1.2);
     background: #2431c7;
