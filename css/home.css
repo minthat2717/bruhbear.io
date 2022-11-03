@@ -104,6 +104,11 @@ nav{
 
 .aa{
     margin:auto;
+    align-items: center;
+    justify-content: space-between;
+    font-family: monospace;
+    align-items: center;
+    text-align: center;
 }
 
 .aa a{
