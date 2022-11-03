@@ -103,7 +103,7 @@ nav{
 }
 
 .aa{
-    margin:auto;
+    margin: auto;
     align-items: center;
     justify-content: space-between;
     font-family: monospace;
@@ -112,7 +112,11 @@ nav{
 }
 
 .aa a{
-    padding: 50px;
+    padding: 40px;
+
     font-size: 30px;
     font-weight: bolder;
+  
+    
+    
 }
